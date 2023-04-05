@@ -18,11 +18,11 @@
 <img  align="center" alt="Rafa-React" height="39" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img   align="center" alt="Rafa-React" height="39" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 <img   align="center" alt="Rafa-React" height="39" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img src="https://prismalens.vercel.app/header/logo-dark.svg" />
-<img src="https://miro.medium.com/v2/resize:fit:512/1*0YAM7RltYGo_XO0ZvbU3EA.png" />
+<img align="center" alt="Rafa-React" height="39" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="center" alt="Rafa-React" height="39" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="center" alt="Rafa-React" height="39" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="center" alt="Rafa-React" height="39" width="40" src="https://prismalens.vercel.app/header/logo-dark.svg" />
+<img align="center" alt="Rafa-React" height="39" width="40" src="https://miro.medium.com/v2/resize:fit:512/1*0YAM7RltYGo_XO0ZvbU3EA.png" />
 
  
 </div>
