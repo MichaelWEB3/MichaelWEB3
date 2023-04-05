@@ -14,10 +14,10 @@
 <img align="center" alt="Rafa-React" height="39" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  
  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Rafa-React" height="50" width="40" src="https://miro.medium.com/v2/resize:fit:512/1*0YAM7RltYGo_XO0ZvbU3EA.png" />
 <img align="center" alt="Rafa-React" height="39" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="center" alt="Rafa-React" height="39" width="40" src="https://prismalens.vercel.app/header/logo-dark.svg" />
 <img align="center" alt="Rafa-React" height="39" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="center" alt="Rafa-React" height="100" width="40" src="https://miro.medium.com/v2/resize:fit:512/1*0YAM7RltYGo_XO0ZvbU3EA.png" />
 
   <img  align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="Rafa-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
