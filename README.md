@@ -18,8 +18,13 @@
 <img  align="center" alt="Rafa-React" height="39" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img   align="center" alt="Rafa-React" height="39" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 <img   align="center" alt="Rafa-React" height="39" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img src="https://prismalens.vercel.app/header/logo-dark.svg" />
+<img src="https://miro.medium.com/v2/resize:fit:512/1*0YAM7RltYGo_XO0ZvbU3EA.png" />
 
-  
+ 
 </div>
   <div> 
   <a href="https://www.youtube.com/channel/UC18dJeaFjkzr2qDaaO4DCQQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
