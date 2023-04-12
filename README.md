@@ -1,6 +1,7 @@
 ### Olá Sou Michael, FullStack developer 👋
 ### Hi,I'm Michael, FullStack developer 👋
-
+Acredito que se você mostrar às pessoas os problemas e depois as soluções elas se motivarão a agir. - Bill Gates
+I believe that if you show people the problems and then the solutions, they will be motivated to act. - Bill Gates
 <div align="center">
   <a href="https://github.com/https://github.com/MichaelWEB3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichaelWEB3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
