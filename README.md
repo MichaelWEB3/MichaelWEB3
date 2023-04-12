@@ -1,14 +1,14 @@
 ### Olá Sou Michael, FullStack developer 👋
 ### Hi,I'm Michael, FullStack developer 👋
 "Acredito que se você mostrar às pessoas os problemas e depois as soluções elas se motivarão a agir." - Bill Gates <br/>
-"I believe that if you show people the problems and then the solutions, they will be motivated to act." - Bill Gates
+"I believe that if you show people the problems and then the solutions, they will be motivated to act." - Bill Gates<br/>
 
 ###  Meus projetos em que trabalhei publicados | My projects I worked on published
- Tais  projetos não podem ter repositórios abertos | Such projects cannot have open repositories
- 1 - https://www.palcoweb.com.br  🌐
- 2 - https://www.supermercados24horas.com.br  🌐
- 3 - https://www.marketplace24horas.com.br  🌐
- 4 - https://play.google.com/store/apps/details?id=com.appmarketplace&pli=1  📱
+ Tais  projetos não podem ter repositórios abertos | Such projects cannot have open repositories<br/>
+ 1 - https://www.palcoweb.com.br  🌐<br/>
+ 2 - https://www.supermercados24horas.com.br  🌐<br/>
+ 3 - https://www.marketplace24horas.com.br  🌐<br/>
+ 4 - https://play.google.com/store/apps/details?id=com.appmarketplace&pli=1  📱<br/>
 
 <div align="center">
   <a href="https://github.com/https://github.com/MichaelWEB3">
